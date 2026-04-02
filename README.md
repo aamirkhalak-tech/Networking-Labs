@@ -11,6 +11,8 @@ To configure EIGRP routing and perform route redistribution between networks.
 - Multiple PCs placed in different networks
 - End-to-end communication established between all networks
 
+![Topology](topology.png)
+
 ## What I Configured:
 - Enabled EIGRP routing
 - Configured network statements
